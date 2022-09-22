@@ -1,10 +1,10 @@
 # Voici la liste des étudiants:
 
 - Mathias: MathiasRenoult
-- Quentin Aellen
+- Quentin Aellen : SuperQuentin
 - Sara Camassa : scamassa
 - Emily Baquerizo : AEBaq
-- Guillaume Gonin
+- Guillaume Gonin : LeVraiGG
 - Mehmet fatih atasever mfatihatasever
 - Rafael Dousse: Rafou2898
 - Rachel Tranchida : Sainane
@@ -25,4 +25,5 @@
 - Samuel Roland: samuelroland
 - Alan - AlanSottile
 - Keya : keya18k
+- Patrick.M : patrick2ooo
 - Ewan Bloechle : EwanHeig
