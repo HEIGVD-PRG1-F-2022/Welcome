@@ -10,3 +10,4 @@
 - Linus Gasser: ineiti
 - Robin Forestier: Forestierr
 - Guillaume D. : GuillaumeDnt2
+- Florian Duruz : Cat-du-Fromage
