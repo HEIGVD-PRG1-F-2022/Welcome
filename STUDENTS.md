@@ -10,4 +10,5 @@
 - Linus Gasser: ineiti
 - Robin Forestier: Forestierr
 - Guillaume D. : GuillaumeDnt2
-- Pinto Guilherme - GuilhermePintodac
+- Boris : borishuu
+- Ahmad Jano : ahmadjano
