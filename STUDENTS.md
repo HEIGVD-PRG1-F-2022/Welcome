@@ -1,2 +1,11 @@
 # Voici la liste des étudiants:
-- Keya - keya18k
+
+- Mathias - MathiasRenoult
+- Quentin Aellen
+- Sara Camassa
+- Emily Baquerizo
+- Guillaume Gonin
+- Rafael Dousse: Rafou2898
+- Rachel Tranchida
+- Linus Gasser: ineiti
+- Guillaume D. : GuillaumeDnt2
