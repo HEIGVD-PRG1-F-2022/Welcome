@@ -1,7 +1,6 @@
 # Voici la liste des étudiants:
 
--Ander Uriel : anderurielHEIGVD
-
+- Ander Uriel : anderurielHEIGVD
 - Mathias - MathiasRenoult
 - Quentin Aellen
 - Sara Camassa : scamassa
