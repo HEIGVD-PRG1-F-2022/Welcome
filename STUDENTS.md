@@ -11,5 +11,6 @@
 - Robin Forestier: Forestierr
 - Guillaume D. : GuillaumeDnt2
 - Boris : borishuu
+- Arthur Junod: Tasticoco
 - Ahmad Jano : ahmadjano
-- David Berger - Davtek11
+- Pinto Guilherme - GuilhermePintodac
