@@ -6,6 +6,7 @@
 - Sara Camassa : scamassa
 - Emily Baquerizo : AEBaq
 - Guillaume Gonin
+- Mehmet fatih atasever mfatihatasever
 - Rafael Dousse: Rafou2898
 - Rachel Tranchida : Sainane
 - Linus Gasser: ineiti
@@ -22,4 +23,5 @@
 - Chloé Salamin : ChloSala
 - Florian Duruz: Cat-du-Fromage
 - Samuel Roland: samuelroland
+- Alan - AlanSottile
 
