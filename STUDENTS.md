@@ -13,3 +13,4 @@
 - Boris : borishuu
 - Arthur Junod: Tasticoco
 - Ahmad Jano : ahmadjano
+- Florian Duruz: Cat-du-Fromage
