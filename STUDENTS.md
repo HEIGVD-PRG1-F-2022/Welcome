@@ -11,3 +11,6 @@
 - Robin Forestier: Forestierr
 - Guillaume D. : GuillaumeDnt2
 - Alexander - Alexolebo
+- Boris : borishuu
+- Arthur Junod: Tasticoco
+- Ahmad Jano : ahmadjano
