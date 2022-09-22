@@ -11,9 +11,14 @@
 - Robin Forestier: Forestierr
 - Guillaume D. : GuillaumeDnt2
 - Alexander - Alexolebo
+- Antoine Leresche : A2va
 - Boris : borishuu
 - Arthur Junod: Tasticoco
 - Ahmad Jano : ahmadjano
 - Pinto Guilherme - GuilhermePintodac
 - David Berger - Davtek11
+- Bruno : bruvrosas
+- Chloé Salamin : ChloSala
+- Florian Duruz: Cat-du-Fromage
+- Samuel Roland: samuelroland
 - Keya : keya18k
