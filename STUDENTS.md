@@ -16,4 +16,3 @@
 - Ahmad Jano : ahmadjano
 - Pinto Guilherme - GuilhermePintodac
 - David Berger - Davtek11
-- Keya : keya18k
