@@ -18,3 +18,4 @@
 - Pinto Guilherme - GuilhermePintodac
 - David Berger - Davtek11
 - Bruno : bruvrosas
+- Chloé Salamin : ChloSala
