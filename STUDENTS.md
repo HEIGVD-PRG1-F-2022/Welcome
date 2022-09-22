@@ -2,10 +2,10 @@
 
 - Mathias - MathiasRenoult
 - Quentin Aellen
-- Sara Camassa
+- Sara Camassa : scamassa
 - Emily Baquerizo
 - Guillaume Gonin
 - Rafael Dousse: Rafou2898
 - Rachel Tranchida
-- Boris - borishuu
 - Linus Gasser: ineiti
+- Guillaume D. : GuillaumeDnt2
