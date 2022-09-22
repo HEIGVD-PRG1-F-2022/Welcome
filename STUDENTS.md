@@ -8,3 +8,4 @@
 - Rafael Dousse: Rafou2898
 - Rachel Tranchida
 - Boris - borishuu
+- Linus Gasser: ineiti
