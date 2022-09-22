@@ -15,3 +15,4 @@
 - Arthur Junod: Tasticoco
 - Ahmad Jano : ahmadjano
 - Pinto Guilherme - GuilhermePintodac
+- Bruno : bruvrosas
