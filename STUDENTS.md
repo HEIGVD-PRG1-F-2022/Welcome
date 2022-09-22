@@ -19,3 +19,4 @@
 - David Berger - Davtek11
 - Bruno : bruvrosas
 - Chloé Salamin : ChloSala
+- Florian Duruz: Cat-du-Fromage
