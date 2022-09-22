@@ -10,7 +10,9 @@
 - Linus Gasser: ineiti
 - Robin Forestier: Forestierr
 - Guillaume D. : GuillaumeDnt2
+- Alexander - Alexolebo
 - Boris : borishuu
 - Arthur Junod: Tasticoco
 - Ahmad Jano : ahmadjano
+- Pinto Guilherme - GuilhermePintodac
 - Florian Duruz: Cat-du-Fromage
