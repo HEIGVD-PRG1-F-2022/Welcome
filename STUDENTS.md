@@ -13,3 +13,4 @@
 - Boris : borishuu
 - Arthur Junod: Tasticoco
 - Ahmad Jano : ahmadjano
+- Pinto Guilherme - GuilhermePintodac
