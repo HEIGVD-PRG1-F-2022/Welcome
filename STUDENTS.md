@@ -1,2 +1,2 @@
 Voici la liste des étudiants:
-Ahmad - ahmadjano
+- Ahmad Jano: ahmadjano
