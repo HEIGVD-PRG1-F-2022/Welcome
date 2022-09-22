@@ -3,8 +3,9 @@
 - Mathias: MathiasRenoult
 - Quentin Aellen
 - Sara Camassa : scamassa
-- Emily Baquerizo
+- Emily Baquerizo : AEBaq
 - Guillaume Gonin
+- Mehmet fatih atasever mfatihatasever
 - Rafael Dousse: Rafou2898
 - Rachel Tranchida : Sainane
 - Linus Gasser: ineiti
@@ -21,4 +22,5 @@
 - Chloé Salamin : ChloSala
 - Florian Duruz: Cat-du-Fromage
 - Samuel Roland: samuelroland
+- Alan - AlanSottile
 - Keya : keya18k
