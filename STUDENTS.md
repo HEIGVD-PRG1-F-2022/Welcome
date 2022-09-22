@@ -4,7 +4,7 @@
 - Quentin Aellen
 - Sara Camassa : scamassa
 - Emily Baquerizo : AEBaq
-- Guillaume Gonin
+- Guillaume Gonin : LeVraiGG
 - Mehmet fatih atasever mfatihatasever
 - Rafael Dousse: Rafou2898
 - Rachel Tranchida : Sainane
