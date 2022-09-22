@@ -6,3 +6,4 @@
 - Emily Baquerizo
 - Guillaume Gonin
 - Rafael Dousse: Rafou2898
+- Rachel Tranchida
