@@ -1,7 +1,7 @@
 # Voici la liste des étudiants:
 
 - Mathias: MathiasRenoult
-- Quentin Aellen
+- Quentin Aellen : SuperQuentin
 - Sara Camassa : scamassa
 - Emily Baquerizo : AEBaq
 - Guillaume Gonin : LeVraiGG
