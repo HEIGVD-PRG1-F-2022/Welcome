@@ -6,7 +6,7 @@
 - Emily Baquerizo
 - Guillaume Gonin
 - Rafael Dousse: Rafou2898
-- Rachel Tranchida
+- Rachel Tranchida : Sainane
 - Linus Gasser: ineiti
 - Robin Forestier: Forestierr
 - Guillaume D. : GuillaumeDnt2
@@ -15,4 +15,4 @@
 - Arthur Junod: Tasticoco
 - Ahmad Jano : ahmadjano
 - Pinto Guilherme - GuilhermePintodac
-- Keya : keya18k
+- David Berger - Davtek11
