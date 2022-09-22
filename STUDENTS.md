@@ -5,12 +5,14 @@
 - Sara Camassa : scamassa
 - Emily Baquerizo : AEBaq
 - Guillaume Gonin
+- Mehmet fatih atasever mfatihatasever
 - Rafael Dousse: Rafou2898
 - Rachel Tranchida : Sainane
 - Linus Gasser: ineiti
 - Robin Forestier: Forestierr
 - Guillaume D. : GuillaumeDnt2
 - Alexander - Alexolebo
+- Antoine Leresche : A2va
 - Boris : borishuu
 - Arthur Junod: Tasticoco
 - Ahmad Jano : ahmadjano
@@ -18,3 +20,9 @@
 - David Berger - Davtek11
 - Bruno : bruvrosas
 - Remy Piazzalunga RemyPiazzalunga
+- Chloé Salamin : ChloSala
+- Florian Duruz: Cat-du-Fromage
+- Samuel Roland: samuelroland
+- Alan - AlanSottile
+- Keya : keya18k
+- Ewan Bloechle : EwanHeig
