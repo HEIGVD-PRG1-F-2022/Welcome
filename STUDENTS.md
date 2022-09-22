@@ -3,7 +3,7 @@
 - Mathias: MathiasRenoult
 - Quentin Aellen
 - Sara Camassa : scamassa
-- Emily Baquerizo
+- Emily Baquerizo : AEBaq
 - Guillaume Gonin
 - Rafael Dousse: Rafou2898
 - Rachel Tranchida : Sainane
@@ -11,10 +11,14 @@
 - Robin Forestier: Forestierr
 - Guillaume D. : GuillaumeDnt2
 - Alexander - Alexolebo
+- Antoine Leresche : A2va
 - Boris : borishuu
 - Arthur Junod: Tasticoco
 - Ahmad Jano : ahmadjano
 - Pinto Guilherme - GuilhermePintodac
 - David Berger - Davtek11
-- Alan : AlanSottile
-- 
+- Bruno : bruvrosas
+- Chloé Salamin : ChloSala
+- Florian Duruz: Cat-du-Fromage
+- Samuel Roland: samuelroland
+
