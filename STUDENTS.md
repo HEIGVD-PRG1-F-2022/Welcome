@@ -24,3 +24,4 @@
 - Samuel Roland: samuelroland
 - Alan - AlanSottile
 - Keya : keya18k
+- Patrick.M : patrick2ooo
