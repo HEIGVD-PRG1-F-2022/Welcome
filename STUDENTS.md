@@ -1,2 +1,10 @@
-Voici la liste des étudiants:
-Guillaume - GuillaumeDnt2
+# Voici la liste des étudiants:
+
+- Mathias - MathiasRenoult
+- Quentin Aellen
+- Sara Camassa
+- Emily Baquerizo
+- Guillaume Gonin
+- Rafael Dousse: Rafou2898
+- Rachel Tranchida
+- Linus Gasser: ineiti
