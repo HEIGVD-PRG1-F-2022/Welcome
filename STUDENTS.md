@@ -11,3 +11,4 @@
 - Robin Forestier: Forestierr
 - Guillaume D. : GuillaumeDnt2
 - Boris : borishuu
+- Florian Duruz: Cat-du-Fromage
