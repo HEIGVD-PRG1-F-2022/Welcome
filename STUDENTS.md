@@ -1,3 +1,10 @@
 # Voici la liste des étudiants:
-- Mathias Renoult
-- Florian Duruz - Cat-du-Fromage
+
+- Mathias - MathiasRenoult
+- Quentin Aellen
+- Sara Camassa
+- Emily Baquerizo
+- Guillaume Gonin
+- Rafael Dousse: Rafou2898
+- Rachel Tranchida
+- Linus Gasser: ineiti
