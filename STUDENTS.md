@@ -1,11 +1,12 @@
 # Voici la liste des étudiants:
 
-- Mathias - MathiasRenoult
+- Mathias: MathiasRenoult
 - Quentin Aellen
-- Sara Camassa
+- Sara Camassa : scamassa
 - Emily Baquerizo
 - Guillaume Gonin
 - Rafael Dousse: Rafou2898
 - Rachel Tranchida
 - Linus Gasser: ineiti
-- David Berger - Davtek11
+- Robin Forestier: Forestierr
+- Guillaume D. : GuillaumeDnt2
