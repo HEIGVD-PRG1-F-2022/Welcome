@@ -8,4 +8,5 @@
 - Rafael Dousse: Rafou2898
 - Rachel Tranchida
 - Linus Gasser: ineiti
+- Robin Forestier: Forestierr
 - Guillaume D. : GuillaumeDnt2
