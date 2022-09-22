@@ -1,2 +1,9 @@
 Voici la liste des étudiants:
-Linus - ineiti
+- 
+- Quentin Aellen
+- Mathias Renoult
+- Sara Camassa
+- Emily Baquerizo
+- Guillaume Gonin
+- Rafael Dousse: Rafou2898
+- Rachel Tranchida
