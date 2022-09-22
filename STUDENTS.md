@@ -1,7 +1,7 @@
-Voici la liste des étudiants:
-- 
+# Voici la liste des étudiants:
+
+- Mathias - MathiasRenoult
 - Quentin Aellen
-- Mathias Renoult
 - Sara Camassa
 - Emily Baquerizo
 - Guillaume Gonin
