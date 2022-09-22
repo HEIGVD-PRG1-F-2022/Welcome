@@ -1,4 +1,3 @@
-Voici la liste des étudiants:
 # Voici la liste des étudiants:
 
 - Mathias: MathiasRenoult
@@ -12,4 +11,5 @@ Voici la liste des étudiants:
 - Robin Forestier: Forestierr
 - Guillaume D. : GuillaumeDnt2
 - Boris : borishuu
-- bruno - bruvrosas
+- Arthur Junod: Tasticoco
+- Ahmad Jano : ahmadjano
