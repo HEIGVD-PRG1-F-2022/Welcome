@@ -5,3 +5,4 @@ Voici la liste des étudiants:
 - Sara Camassa
 - Emily Baquerizo
 - Guillaume Gonin
+- Rafael Dousse: Rafou2898
