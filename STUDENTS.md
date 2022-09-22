@@ -6,3 +6,4 @@ Voici la liste des étudiants:
 - Emily Baquerizo
 - Guillaume Gonin
 - Rafael Dousse: Rafou2898
+- Rachel Tranchida
