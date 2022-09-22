@@ -3,7 +3,7 @@
 - Mathias: MathiasRenoult
 - Quentin Aellen
 - Sara Camassa : scamassa
-- Emily Baquerizo
+- Emily Baquerizo : AEBaq
 - Guillaume Gonin
 - Rafael Dousse: Rafou2898
 - Rachel Tranchida : Sainane
