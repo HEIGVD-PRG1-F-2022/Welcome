@@ -20,3 +20,5 @@
 - Bruno : bruvrosas
 - Chloé Salamin : ChloSala
 - Florian Duruz: Cat-du-Fromage
+- Samuel Roland: samuelroland
+
