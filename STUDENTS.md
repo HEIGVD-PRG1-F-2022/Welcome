@@ -1,8 +1,8 @@
 # Voici la liste des étudiants:
 
-- Mathias - MathiasRenoult
+- Mathias: MathiasRenoult
 - Quentin Aellen
-- Sara Camassa
+- Sara Camassa : scamassa
 - Emily Baquerizo
 - Guillaume Gonin
 - Rafael Dousse: Rafou2898
