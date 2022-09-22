@@ -12,3 +12,4 @@
 - Guillaume D. : GuillaumeDnt2
 - Boris : borishuu
 - Ahmad Jano : ahmadjano
+- Pinto Guilherme - GuilhermePintodac
