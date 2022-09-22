@@ -9,3 +9,4 @@
 - Rachel Tranchida
 - Linus Gasser: ineiti
 - Guillaume D. : GuillaumeDnt2
+- Arthur Junod: Tasticoco
