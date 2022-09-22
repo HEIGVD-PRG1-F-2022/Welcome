@@ -1,6 +1,6 @@
 # Voici la liste des étudiants:
 
-- Mathias - MathiasRenoult
+- Mathias: MathiasRenoult
 - Quentin Aellen
 - Sara Camassa : scamassa
 - Emily Baquerizo
